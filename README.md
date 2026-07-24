@@ -1,7 +1,5 @@
 # Exp-2-Water-Level-Indicator-Using-BC547-Transistors
-# Exp-2-Water-Level-Indicator-Using-BC547-Transistors
-# Exp-2-Water-Level-Indicator-Using-BC547-TransistorsAim
-Register Number:                                                                                                 Name of the Student:
+Register Number:212225060021                                                                                              Name of the Student:A.Anushri
 
 Aim: To design and implement a Water Level Indicator using BC547 transistors, LEDs, and a buzzer to monitor different water levels in a tank and provide visual and audible indications when the tank is full.
 
